@@ -84,3 +84,8 @@ jonddon-branch
 - Bio: CS undergrad @FUTA, I code Python and Java.
 - Github: [ShowBaba](https://github.com/ShowBaba)
 
+### Name: [Punyashrota Satpathy](https://github.com/punyashrotasatpathy)
+
+- Place: Bhubaneswar, Odisha, India
+- Bio: CS undergraduate @KIIT, interested in digital art.
+- Github: [punyashrotasatpathy](https://github.com/punyashrotasatpathy)
